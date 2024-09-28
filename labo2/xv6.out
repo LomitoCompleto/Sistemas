@@ -1,0 +1,149 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ pingpong 10 & ; pingpong 10 & ; pingpong 20 ; echo DONE
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+pERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid seimaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invanlid semaphore ID.
+ERROR: invalid semaphore ID.
+EgRROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+E
+RROR: invalid semaphore ID.
+pinERROR: invalid semaphore ID.
+ERROR: invalgid semaphore ID.
+pERROR: invalid semap
+hore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+piinngg
+ERROR: invalid semaphor
+e ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+pERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ERROR: invalid semaphore ID.
+ipnigpnign
+gp
+
+ipnipgi
+npgn
+gip
+innpgign
+gp
+
+ipnpigi
+nngg
+
+ppiinnpgign
+gp
+i
+pnipnigg
+
+pnpiginngg
+
+
+ppiinpgo
+npgi
+nnpgo
+ngp
+gpi
+nigp
+onngg
+p
+opnogn
+gpp
+ipoonngg
+
+ppoonngg
+
+nppoonngg
+
+ppoogn
+gpn
+ipgon
+gpnog
+
+pnpgo
+nipgn
+ongg
+
+pppoionngg
+
+pnpgo
+nigpn
+ogp
+opnngg
+ip
+onnpgg
+
+poopnngg
+
+piponngg
+
+popnoginngg
+
+
+ppiponngo
+gpn
+gip
+onpngg
+o
+npgo
+pnign
+gp
+poonngg
+
+ppoonngg
+
+pong
+pong
+pong
+DONE
+$ qemu-system-riscv64: terminating on signal 15 from pid 9570 (make)
